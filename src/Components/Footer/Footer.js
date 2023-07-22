@@ -24,15 +24,19 @@ const Footer = () => {
       <div className='item'>
         <h1>About Us</h1>
         <span>
-          Lorem ipsum From now on, we’ll always create component files using the Angular CLI throughout the
-          rest of the book.
+            Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do
+            eiusmod tempor incididunt ut labore et dolore. Lorem ipsum dolor sit
+            amet conse ctetur adipisicing elit, seddo eiusmod tempor incididunt
+            ut labore etdolore.
         </span>
       </div>
       <div className='item'>
         <h1>Contact</h1>
         <span>
-          Lorem ipsum From now on, we’ll always create component files using the Angular CLI throughout the
-          rest of the book.
+            Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do
+            eiusmod tempor incididunt ut labore et dolore. Lorem ipsum dolor sit
+            amet conse ctetur adipisicing elit, seddo eiusmod tempor incididunt
+            ut labore etdolore.
         </span>
       </div>
       </div>
@@ -42,7 +46,7 @@ const Footer = () => {
           Opulence Store
         </span>
         <span className='copyright'>
-          Copyright 2023, All Rights Reserved
+          © Copyright 2023. All Rights Reserved
         </span>
       </div>
       <div className='right'>

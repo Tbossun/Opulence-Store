@@ -5,7 +5,7 @@ import {
   Outlet
 } from "react-router-dom";
 import Product from './Product/Product';
-import Category from "./Category/Category";
+import Category from './Components/Category/Category';
 import Home from "./Home/Home";
 import Navbar from './Components/Navbar/Navbar';
 import Footer from './Components/Footer/Footer';

@@ -1,6 +1,6 @@
 import React from 'react'
-import  PersonOutlineOutlinedIcon  from '@mui/icons-material/PersonOutlineOutlined';
-import { FavoriteBorderOutlined, ShoppingCartOutlined,keyboardArrowDownIcon,searchIcon } from '@mui/icons-material';
+
+import { PersonOutlineOutlined,FavoriteBorderOutlined, ShoppingCartOutlined, keyboardArrowDownIcon,searchIcon } from '@mui/icons-material';
 import { Link } from 'react-router-dom';
 import "./Navbar.scss"
 
@@ -45,7 +45,7 @@ const Navbar = () => {
                 </div>
                 <div className='icons'>
                     <searchIcon/>
-                    <PersonOutlineOutlinedIcon/>
+                    <PersonOutlineOutlined/>
                     <FavoriteBorderOutlined/>
                     <div className='cartIcon'>
                         <ShoppingCartOutlined/>
